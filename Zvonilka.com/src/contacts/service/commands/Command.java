@@ -1,4 +1,4 @@
-package car.service.commands;
+package contacts.service.commands;
 
 public interface Command {
     void execute();
